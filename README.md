@@ -6,7 +6,7 @@ Submitted By: **Kunal Arora - 102116022**.
 
 Type: **Package**.
 
-Title: **TOPSIS method for multiple-criteria decision making (MCDM)**.
+Title: **TOPSIS**.
 
 Version: **1.0.0**.
 

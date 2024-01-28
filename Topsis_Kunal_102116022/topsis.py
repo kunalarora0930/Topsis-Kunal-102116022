@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import sys
 
-name = "Topsis-Kunal-102116022/Topsis-Kunal-102116022"
+name = "Topsis_Kunal_102116022/Topsis_Kunal_102116022"
 __version__ = "1.0.0"
 __author__ = 'Kunal Arora'
 

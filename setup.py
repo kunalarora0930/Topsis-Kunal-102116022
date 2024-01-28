@@ -13,18 +13,18 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/kunalarora0930/Topsis-Kunal-102116022",
+    url="https://github.com/kunalarora0930/Topsis_Kunal_102116022",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=["Topsis-Kunal-102116022"],
+    packages=["Topsis_Kunal_102116022"],
     include_package_data=True,
     install_requires='pandas',
     entry_points={
         "console_scripts": [
-            "topsis=Topsis-Kunal-102116022.topsis:main",
+            "topsis=Topsis_Kunal_102116022.topsis:main",
         ]
     },
 )
